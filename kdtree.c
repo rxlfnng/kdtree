@@ -571,7 +571,7 @@ kdres* kd_nearest_n(struct kdtree *kd, const double *pos,int num)
     /* Search for the nearest neighbour recursively */
     find_nearest_n(kd->root, pos, rset, rect,num);
 
-//    kd_hp_sort(rset);
+    kd_hp_sort(rset);
     /* Free the copy of the hyperrect */
     hyperrect_free(rect);
 
