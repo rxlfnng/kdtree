@@ -20,15 +20,8 @@ kdtree library.
 License
 -------
 Author: John Tsiombikas <nuclear@member.fsf.org>
-
+		Jipanpeng Zhao <rxlfnng@1163.com>
 kdtree is free software. You may use, modify, and redistribute it under the
 terms of the 3-clause BSD license.
 
-Download
---------
-Latest release (0.5.6): http://nuclear.mutantstargoat.com/sw/kdtree/files/kdtree-0.5.6.tar.gz
 
-You can find previous releases here:
-http://nuclear.mutantstargoat.com/sw/kdtree/files/
-
-You can also grab a copy of the source from github: https://github.com/jtsiomb/kdtree
