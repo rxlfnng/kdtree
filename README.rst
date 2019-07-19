@@ -20,7 +20,7 @@ kdtree library.
 License
 -------
 Author: John Tsiombikas <nuclear@member.fsf.org>
-		Jipanpeng Zhao <rxlfnng@1163.com>
+		Jipanpeng Zhao <rxlfnng@163.com>
 kdtree is free software. You may use, modify, and redistribute it under the
 terms of the 3-clause BSD license.
 
